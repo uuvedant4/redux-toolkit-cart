@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+
+.link:hover {
+  transform: scale(1.1);
+}
